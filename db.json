@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Tequila",
+      "price": "600",
+      "id": 4
+    },
+    {
+      "name": "Rib Eye",
+      "price": "400",
+      "id": 5
+    },
+    {
+      "name": "HAMBURGER",
+      "price": "200",
+      "id": 6
+    },
+    {
+      "name": "Tequila 2",
+      "price": 500,
+      "id": 7
+    },
+    {
+      "name": "MERN 2",
+      "price": 200,
+      "id": 8
+    }
+  ]
+}
